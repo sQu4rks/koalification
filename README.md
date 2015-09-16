@@ -1,2 +1,2 @@
 # koalification
-Koalification - koalifying php for a faster web
+koalifying php for a faster web
