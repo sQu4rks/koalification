@@ -1,0 +1,23 @@
+
+Folder structure ideas:
+
+- admin 
+  This folder contains all admin related files.
+  If Koalification currently is not installed when this folder accessed it starts the setup routine.
+  After installation this folder should be protected with the configured admin account and password.
+  
+The root directory contains the normal files for users/visitors.
+
+
+
+
+Things which need to be clarified:
+
+- Is there a setup required for every web application which contains the whole system? If not, how there will be the structure for one admin interface but a lot of different web applications?
+- There should be a private directory to put template files etc. This cannot be done with authentication as these files are non-PHP and are not executed as script and just given to the browser if in a www-accessible folder. So there need to be two folder structures, one with private files and the other containing the web ressources.
+
+
+Proposition for the two problems above:
+There is one private folder structure containing all PHP classes and required templates, sqlite database if used. For every web application there will be a new folder containing the files for this specific application which is www-accessible. Also the basic Koalification app needs some sort of admin interface for the basic setup in a folder callable from a browser.
+
+
