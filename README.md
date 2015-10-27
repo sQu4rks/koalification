@@ -1,3 +1,4 @@
+[![Travis build status](https://travis-ci.org/sQu4rks/koalification.png?branch=master)](https://travis-ci.org/sQu4rks/koalification)
 # koalification
 koalifying php for a faster web
 
@@ -23,7 +24,7 @@ First steps
 3. Run the manager.php script with init option. This will let you choose the database backend, generate SQL and classes for you
 4. Develop your app
 
-Too fast ? See the wiki for a step-by-step tutorial. 
+Too fast ? See the wiki for a step-by-step tutorial.
 
 Origin
 ------
