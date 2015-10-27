@@ -23,6 +23,8 @@ First steps
 3. Run the manager.php script with init option. This will let you choose the database backend, generate SQL and classes for you
 4. Develop your app
 
+Too fast ? See the wiki for a step-by-step tutorial. 
+
 Origin
 ------
 
