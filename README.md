@@ -29,4 +29,4 @@ Origin
 This project was developed as a part of the CS261 - Web Data Management course at university of Basel. For a working application see
 proEndura.
 
-Developed with :heart: in Basel, CH - by Sein Coray(@seincoray) and Marcel Neidinger(@sQu4rks)
+Developed with :heart: in Basel, CH - by Sein Coray([@seincoray](https://github.com/seincoray)) and Marcel Neidinger([@sQu4rks](https://github.com/sQu4rks))
