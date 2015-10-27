@@ -21,7 +21,7 @@ First steps
 
 1. Clone down the code
 3. Run the manager.php script with init option. This will let you choose the database backend, generate SQL and classes for you
-4. Develope your app
+4. Develop your app
 
 Origin
 ------
