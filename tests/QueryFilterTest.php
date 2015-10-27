@@ -4,7 +4,7 @@
     public function testCreation()
     {
       $qF = new QueryFilter("userId","4","=");
-      $this->assertEqual("userId=?",$qF->getQueryString());
+      $this->assertEquals("userId=?",$qF->getQueryString());
     }
   }
 ?>
